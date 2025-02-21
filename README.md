@@ -31,6 +31,3 @@ Sinta-se à vontade para abrir um Pull Request e colaborar com melhorias! 💡
 📜 Licença
 Este projeto está sob a licença MIT.
 
-nginx
-Copiar
-Editar
